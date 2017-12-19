@@ -8,7 +8,7 @@ A python script to take in a CSV file which contains callsigns under the header 
 You must have a QRZ.com account with [XML Data](https://www.qrz.com/page/xml_data.html) permissions.
 
 Execution:
-**./getaddresses.py -l <qrz login> -p <qrz password> -i <inputfile> -o <outputfile>**
+**./getaddresses.py -l \<qrz login\> -p \<qrz password\> -i \<inputfile\> -o \<outputfile\>**
 
 If you log your contacts on QRZ.com, you can pull down your log as an adif, then use an [ADIF to CSV](http://software.ad1c.us/ADIF_to_CSV/index.html) to create a CSV for input to this script.
 
